@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e09ba8d0-f9c4-426e-bf1d-7dc93f74269e" name="Default Changelist" comment="TAREA DE PYTHON">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_de_python_progra3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +42,11 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\WILDER BARRIOS\PycharmProjects\untitled4" />
+    </key>
   </component>
   <component name="RunManager" selected="Python.ejercicio7">
     <configuration name="ejercicio2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
@@ -181,6 +184,8 @@
       <workItem from="1585521831426" duration="1452000" />
       <workItem from="1585523329723" duration="889000" />
       <workItem from="1585696073145" duration="663000" />
+      <workItem from="1585888605994" duration="550000" />
+      <workItem from="1585974629849" duration="958000" />
     </task>
     <servers />
   </component>
@@ -196,10 +201,10 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="321" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1585521501167" />
-    <state x="462" y="109" key="FileChooserDialogImpl" timestamp="1585523105997">
+    <state x="462" y="109" key="FileChooserDialogImpl" timestamp="1585974873063">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="462" y="109" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585523105997" />
+    <state x="462" y="109" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1585974873063" />
     <state x="419" y="243" key="Github.CreatePullRequestDialog" timestamp="1585523386018">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
